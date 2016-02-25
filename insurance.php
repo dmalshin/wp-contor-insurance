@@ -15,7 +15,7 @@ if ( ! empty($_POST['user']) ) {
 	<form action="" method="post">
 		<p>
 			<input type="text" name="user" size="3" placeholder="ID">
-			<input type="submit" value="Go">
+			<input type="submit" value="Authorize">
 		</p>
 	</form>
 </details>
